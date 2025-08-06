@@ -1,0 +1,73 @@
+# Phishing Email Analysis Report
+
+## 📨 Email Subject:
+**Please verify your email address**
+
+## 🧑‍💻 Sender Address:
+**g!daddy@bigdogdomains.co**
+
+> ⚠️ This is a suspicious and spoofed email address. It mimics GoDaddy (a known domain registrar) but is actually from `bigdogdomains.co`, which is not affiliated with GoDaddy.
+
+
+## 🕵️‍♀️ Phishing Indicators:
+
+### 1. **Spoofed Sender Email**
+- Legitimate companies like GoDaddy use verified domains (e.g., `@godaddy.com`).
+- Here, the sender is `bigdogdomains.co`, a suspicious domain.
+
+### 2. **Urgency to Act**
+- The email states: **"Your domain will go on hold in 24 hours"**.
+- This creates **panic** and forces the recipient to act quickly without verifying the email's legitimacy.
+
+### 3. **Deceptive Link Text**
+- The button “Click here to verify your email” or “Login Secure-Link” seems secure.
+- However, phishing emails often hide **malicious URLs** behind buttons or links.
+- The actual URL (not shown in screenshot) would likely lead to a **fake login page**.
+
+### 4. **Impersonation of GoDaddy**
+- The GoDaddy **logo** is used at the top.
+- But there's **no personalization** – no user name, domain name, or customer ID is mentioned.
+
+### 5. **Unprofessional Formatting**
+- The text formatting, button styling, and footer spacing look **unrefined and unofficial**.
+- Real GoDaddy emails follow strict branding and layout standards.
+
+### 6. **Generic Greeting**
+- No user-specific details, just a general message.
+- Professional services typically greet users by their registered name or domain.
+
+### 7. **Unclear Sender Identity**
+- The “Login Secure-Link” term and domain structure are misleading.
+- This is not a known GoDaddy phrase.
+
+---
+
+## 🎯 What Might Happen If a User Clicks the Link?
+
+- User may be taken to a **fake GoDaddy login page**.
+- If credentials are entered:
+  - **Account credentials will be stolen**.
+  - Attacker may gain access to domain control, email, or other services.
+- Could also result in **malware download or browser exploit**.
+
+---
+
+## ✅ Conclusion:
+
+This email is a **classic phishing attempt**:
+- It impersonates a known brand (GoDaddy).
+- It uses urgency, spoofed email, and deceptive links to **trick users**.
+- The goal is likely **credential theft** or malicious redirection.
+
+Users should:
+- **Not click** on any link in such emails.
+- **Report** the email as phishing.
+- **Verify** directly on the official GoDaddy website or contact support.
+
+---
+
+# 🧷 Attachment:
+Screenshot of the phishing email is saved as:  
+**`phishing_email_screenshot.png`**
+
+ 
