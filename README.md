@@ -10,20 +10,20 @@ The purpose of this task is to analyze a **phishing email sample** and identify 
 - **Subject**: Please verify your email address  
 - **Sender**: godaddy@bigdogdomains.co  
 - **Brand Targeted**: GoDaddy  
-- **Attachment**: `phishing_email_screenshot.png`
+- **Attachment**: 'Sample Phishing Email.png'
 
 ---
 
 ## 🕵️ Key Findings
 
 ### 1. Spoofed Sender
-- The email uses a misleading domain `@bigdogdomains.co` instead of the legitimate `@godaddy.com`.
+- The email uses a misleading domain '@bigdogdomains.co' instead of the legitimate '@godaddy.com'.
 
 ### 2. Urgency to Trick User
 - Message warns the domain will be **on hold in 24 hours**, creating panic and urgency.
 
 ### 3. Deceptive Link/Button
-- Contains buttons like “Click here to verify your email” or “Login Secure-Link”.
+- Contains buttons like "Click here to verify your email" or "Login Secure-Link".
 - Likely to redirect to a **fake login page** to steal user credentials.
 
 ### 4. Branding Abuse
